@@ -1,0 +1,1 @@
+# suicide_rates_analysis
